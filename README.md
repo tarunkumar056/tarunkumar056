@@ -2,8 +2,10 @@
 
 <div align="center" ><img src="https://i.imgur.com/8EErDv2.png" height=auto width="350px" /></div>
 
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVjdGtxZ2oxMjc3ZWNneXdoY2E3cGQwdWduZnFpNWttYTNwdGNtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E6EnvXLzCwnhV58V9l/giphy.gif" width="120" height="auto" align="center" />
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">Hey there, Im Tarun Kumar!!
-<h3 align="center">I'm a Upcoming  Software Engineer...
+   <img src=""
+<h3 align="center">I'm an  Upcoming  Software Engineer...
 <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="120" height="auto" align="center" />
 </h3>
 
