@@ -66,7 +66,8 @@
 
 ## 🐍 Feeding my Pet
 <div align="center">
-![snake gif](https://github.com/tarunkumar056/tarunkumar056/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/tarunkumar056/tarunkumar056/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunkumar056&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumar056" /> </p>
