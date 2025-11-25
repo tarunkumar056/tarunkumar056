@@ -63,10 +63,15 @@
     <img src="https://img.icons8.com/?size=512&id=32323&format=png" height=50 width=50/>
   </a>
 </p>-->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarunkumar056/tarunkumar056/output/github-contribution-grid-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarunkumar056/tarunkumar056/output/github-contribution-grid-snake.svg?v=1">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tarunkumar056/tarunkumar056/output/github-contribution-grid-snake.svg?v=1">
-</picture>
 
+## 🐍 Feeding my Pet
+<div align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarunkumar056/tarunkumar056/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarunkumar056/tarunkumar056/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tarunkumar056/tarunkumar056/output/github-contribution-grid-snake.svg">
+ </picture>
+</div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunkumar056&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkumar056" /> </p>
+ 
