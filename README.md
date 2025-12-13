@@ -48,21 +48,6 @@
    <img src="https://img.icons8.com/color/96/000000/mongodb.png" width=60 height=60></img>
 </p>
 
-<!--## 🤝 Connect with me:
-<p align="center">
-  <a href="mailto:jainavijeet@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=1x&id=pwQ5RLL0yJgu&format=png" height=50 width=50/>
-  </a>
-  <a href = "https://aviiii.me" target="_blank">
-    <img src="https://user-images.githubusercontent.com/99802392/250142778-94e71cf1-8b7e-49bf-afc1-ff432b4625db.png" height=40 width=40/>
-  </a>
-  <a href = "https://www.linkedin.com/in/avijeet-jain-476712233/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href = "https://www.instagram.com/_.aviii_._/" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=32323&format=png" height=50 width=50/>
-  </a>
-</p>-->
 
 ## 🐍 Feeding my Pet
 <div align="center">
