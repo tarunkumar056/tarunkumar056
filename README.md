@@ -42,7 +42,7 @@
   <img src="https://img.icons8.com/color/96/000000/tailwind_css.png" width="60" height="60" alt="Tailwind CSS" />
   <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="60" height="60" alt="Bootstrap" />
   <img src="https://img.icons8.com/color/96/000000/git.png" width="60" height="60" alt="Git" />
-  <img src="https://img.icons8.com/material-outlined/96/ffffff/github.png" width=60 height=60></img>
+  <img src="https://img.icons8.com/material-outlined/96/ffffff/github.png" width=60 height=60 />
   <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="60" height="60" alt="MySQL" />
   <img src="https://img.icons8.com/color/96/000000/mongodb.png" width=60 height=60 />
 </p>
