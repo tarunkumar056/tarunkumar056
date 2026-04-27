@@ -28,24 +28,11 @@
 - 📫 Reach out to me at my **<a href="tarunkumar58368@gmail.com">Email</a>**
  
  
-## ⌨ Languages and Tools:
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="60" height="60" alt="Java" />
-  <img src="https://img.icons8.com/color/96/000000/python--v1.png" width="60" height="60" alt="Python" />
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="60" height="60" alt="HTML" />
-  <img src="https://img.icons8.com/color/96/000000/css3.png" width="60" height="60" alt="CSS" />
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="60" height="60" alt="JavaScript" />
-  <img src="https://img.icons8.com/plasticine/100/000000/react.png" width="60" height="60" alt="React" />
-  <img src="https://img.icons8.com/color/96/000000/express.png" width="60" height="60" alt="Express.js" />
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="60" height="60" alt="Node.js" />
-   <img src="https://img.icons8.com/color/24895/npm.png" width=60 height=60 />
-  <img src="https://img.icons8.com/color/96/000000/tailwind_css.png" width="60" height="60" alt="Tailwind CSS" />
-  <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="60" height="60" alt="Bootstrap" />
-  <img src="https://img.icons8.com/color/96/000000/git.png" width="60" height="60" alt="Git" />
-  <img src="https://img.icons8.com/material-outlined/96/ffffff/github.png" width=60 height=60 />
-  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="60" height="60" alt="MySQL" />
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width=60 height=60 />
-</p>
+ ## Languages and Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ! ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+ 
 
 
 ## 🐍 Feeding my Pet
